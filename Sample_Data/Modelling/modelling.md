@@ -2,8 +2,8 @@
 
 Dataset Name | Dataset | Full Dataset Size (MB)
 :---:|:---:|:---:
-X_train | produced by processing.ipynb | 2,070
-X_test | produced by processing.ipynb | 15.5
-d_train | hh| asfasd
-d_test |adsf|asdf
+X_train_3.npy | produced by DataAugmentation.ipynb | 3,770
+X_test_3.npy | produced by DataAugmentation.ipynb | 1,620
+d_train_3.npy | produced by DataAugmentation.ipynb| 14.1
+d_test_3.npy |produced by DataAugmentation.ipynb| 6.1
 
